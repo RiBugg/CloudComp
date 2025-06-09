@@ -83,4 +83,4 @@ class try1 extends JFrame implements ActionListener
     {
         new try1();
     }
-}
+}System.out.println(Hello)
